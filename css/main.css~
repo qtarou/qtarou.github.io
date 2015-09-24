@@ -1,0 +1,10 @@
+section {
+    padding-top: 60px;
+    font-size: 15px;
+}
+
+section#profile div.attr name{
+    font-size: 30px;
+}
+
+}
