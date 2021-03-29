@@ -5,11 +5,7 @@
     <link>http://qtarou.github.io/interests/</link>
     <description>Recent content in Interests on Kosuke Takahashi, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://qtarou.github.io/interests/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://qtarou.github.io/interests/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1: 3D vision</title>
       <link>http://qtarou.github.io/interests/1_interests/</link>

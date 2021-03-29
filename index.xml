@@ -6,11 +6,7 @@
     <description>Recent content on Kosuke Takahashi, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://qtarou.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate><atom:link href="http://qtarou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://qtarou.github.io/about/</link>
@@ -40,7 +36,7 @@ Yo yoyo</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/misc/</guid>
-      <description>Invited Talks  &amp;ldquo;Camera calibration ~ foundation and application ~ (実践カメラキャリブレーション ～カメラを用いた実世界計測の基礎と応用～)&amp;rdquo;, SSII, 2019, slide share (in Japanese) &amp;ldquo;The Latest Trends of Sports Video Analysis (スポーツ映像解析の最新動向)&amp;rdquo;, 映像情報メディア学会, Aug, 2018  Awards International  CVPR 2012, Best Open source Code Award Second Prize, for &amp;ldquo;A New Mirror-based Extrinsic Camera Calibration Using an Orthogonality Constraint&amp;rdquo;.  Domestic (In Japanese)  MIRU 2019, MIRU Interactive Award CVIM 2018, CVIM Encouragement Award CVIM 2017, CVIM Encouragement Award MVE 2015, HC Award, MVE Award  Company Awards  NTT Media Intelligence Laboratories, Special Award (特別賞), 2019 NTT, President Award (社長表彰), 2017 NTT Media Intelligence Laboratories, Promotion Award (プロモーション活動賞), 2017 NTT Service Innovation Laboratoriy Group, Encouragement Award (研究開発奨励賞), 2016 NTT Media Intelligence Laboratories, Patent Award (特許賞), 2016 NTT Intellectual Property Center, 2016 NTT Service Innovation Laboratoriy Group, Performance Award (優秀業績賞), 2015 NTT Media Intelligence Laboratories, Contribution Award (功労賞), 2014 NTT Media Intelligence Laboratories, Special Award (特別賞), 2013  Media</description>
+      <description>Invited Talks  &amp;ldquo;Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture (水産養殖業における CV・パターン認識技術の最前線)&amp;rdquo;, CVIM/PRMU, Mar, 2021 &amp;ldquo;Camera calibration ~ foundation and application ~ (実践カメラキャリブレーション ～カメラを用いた実世界計測の基礎と応用～)&amp;rdquo;, SSII, 2019, slide share (in Japanese) &amp;ldquo;The Latest Trends of Sports Video Analysis (スポーツ映像解析の最新動向)&amp;rdquo;, 映像情報メディア学会, Aug, 2018  Awards International  CVPR 2012, Best Open source Code Award Second Prize, for &amp;ldquo;A New Mirror-based Extrinsic Camera Calibration Using an Orthogonality Constraint&amp;rdquo;.  Domestic (In Japanese)  MIRU 2019, MIRU Interactive Award CVIM 2018, CVIM Encouragement Award CVIM 2017, CVIM Encouragement Award MVE 2015, HC Award, MVE Award  Company Awards  NTT Media Intelligence Laboratories, Special Award (特別賞), 2019 NTT, President Award (社長表彰), 2017 NTT Media Intelligence Laboratories, Promotion Award (プロモーション活動賞), 2017 NTT Service Innovation Laboratoriy Group, Encouragement Award (研究開発奨励賞), 2016 NTT Media Intelligence Laboratories, Patent Award (特許賞), 2016 NTT Intellectual Property Center, 2016 NTT Service Innovation Laboratoriy Group, Performance Award (優秀業績賞), 2015 NTT Media Intelligence Laboratories, Contribution Award (功労賞), 2014 NTT Media Intelligence Laboratories, Special Award (特別賞), 2013  Media</description>
     </item>
     
     <item>
@@ -63,12 +59,12 @@ Yo yoyo</description>
     </item>
     
     <item>
-      <title>1. JOB CHANGE</title>
+      <title>1. INVITED TALK</title>
       <link>http://qtarou.github.io/news/1_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/news/1_news/</guid>
-      <description>I changed my job from a researcher at NTT Media Intelligence Laboratories to a software engineer at UMITRON.</description>
+      <description>I had an invited talk entitled Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture at CVIM/PRMU research meeting.</description>
     </item>
     
     <item>
@@ -90,12 +86,12 @@ Yo yoyo</description>
     </item>
     
     <item>
-      <title>2. RESEARCH PAPER</title>
+      <title>2. JOB CHANGE</title>
       <link>http://qtarou.github.io/news/2_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/news/2_news/</guid>
-      <description>Our new paper ``Easy Extrinsic Calibration of VR System and Multi-Camera based Marker-less Motion Capture System&amp;rsquo;&amp;rsquo; was accepted to ISMAR 2019 poster paper.</description>
+      <description>I changed my job from a researcher at NTT Media Intelligence Laboratories to a software engineer at UMITRON.</description>
     </item>
     
     <item>
