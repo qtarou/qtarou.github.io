@@ -36,7 +36,7 @@ Yo yoyo</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/misc/</guid>
-      <description>Invited Talks  &amp;ldquo;Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture (水産養殖業における CV・パターン認識技術の最前線)&amp;rdquo;, CVIM/PRMU, Mar, 2021 &amp;ldquo;Camera calibration ~ foundation and application ~ (実践カメラキャリブレーション ～カメラを用いた実世界計測の基礎と応用～)&amp;rdquo;, SSII, 2019, slide share (in Japanese) &amp;ldquo;The Latest Trends of Sports Video Analysis (スポーツ映像解析の最新動向)&amp;rdquo;, 映像情報メディア学会, Aug, 2018  Awards International  CVPR 2012, Best Open source Code Award Second Prize, for &amp;ldquo;A New Mirror-based Extrinsic Camera Calibration Using an Orthogonality Constraint&amp;rdquo;.  Domestic (In Japanese)  MIRU 2019, MIRU Interactive Award CVIM 2018, CVIM Encouragement Award CVIM 2017, CVIM Encouragement Award MVE 2015, HC Award, MVE Award  Company Awards  NTT Media Intelligence Laboratories, Special Award (特別賞), 2019 NTT, President Award (社長表彰), 2017 NTT Media Intelligence Laboratories, Promotion Award (プロモーション活動賞), 2017 NTT Service Innovation Laboratoriy Group, Encouragement Award (研究開発奨励賞), 2016 NTT Media Intelligence Laboratories, Patent Award (特許賞), 2016 NTT Intellectual Property Center, 2016 NTT Service Innovation Laboratoriy Group, Performance Award (優秀業績賞), 2015 NTT Media Intelligence Laboratories, Contribution Award (功労賞), 2014 NTT Media Intelligence Laboratories, Special Award (特別賞), 2013  Media</description>
+      <description>Invited Talks  &amp;ldquo;Aquaculture x IoT and AI; Technologies for sustainable aquaculture (水産養殖 x IoT・AI ～ 持続可能な水産養殖を実現するセンシング/解析技術 ～)&amp;rdquo;, SSII, Jun, 2021, slide share (in Japanese) &amp;ldquo;Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture (水産養殖業における CV・パターン認識技術の最前線)&amp;rdquo;, CVIM/PRMU, Mar, 2021 &amp;ldquo;Camera calibration ~ foundation and application ~ (実践カメラキャリブレーション ～カメラを用いた実世界計測の基礎と応用～)&amp;rdquo;, SSII, 2019, slide share (in Japanese) &amp;ldquo;The Latest Trends of Sports Video Analysis (スポーツ映像解析の最新動向)&amp;rdquo;, 映像情報メディア学会, Aug, 2018  Awards International  CVPR 2012, Best Open source Code Award Second Prize, for &amp;ldquo;A New Mirror-based Extrinsic Camera Calibration Using an Orthogonality Constraint&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ Yo yoyo</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/publications/</guid>
-      <description>Book  Hideo Saito, Ryo Yonetani, Kosuke Takahashi, et.al. &amp;ldquo;コンピュータビジョン ―広がる要素技術と応用― &amp;rdquo; (Section 1: Camera calibration), 共立出版, 2018  Journal papers   Kosuke Takahashi, Shohei Nobuhara, &amp;ldquo;Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point&amp;rdquo; IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (to appear). axXiv.
+      <description>Book  Hideo Saito, Ryo Yonetani, Kosuke Takahashi, et.al. &amp;ldquo;コンピュータビジョン ―広がる要素技術と応用― &amp;rdquo; (Section 1: Camera calibration), 共立出版, 2018  Journal papers   Kosuke Takahashi, Shohei Nobuhara, &amp;ldquo;Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point&amp;rdquo; IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). IEEE Xplore, axXiv.
   Siqi Sun, Kosuke Takahashi, Dan Mikami, Mariko Isogawa, Yoshinori Kusachi, &amp;ldquo;Multi-view video synchronization using motion rhythms of human joints&amp;rdquo;, ITE Transactions on Media Technology and Applications, Vol.</description>
     </item>
     
@@ -59,12 +59,12 @@ Yo yoyo</description>
     </item>
     
     <item>
-      <title>1. PAPER</title>
+      <title>1. INVITED TALK</title>
       <link>http://qtarou.github.io/news/1_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/news/1_news/</guid>
-      <description>Our paper entitled Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point was accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (to appear). Its arXiv version is available here.</description>
+      <description>I had an invited talk entitled Aquaculture x IoT and AI; Technologies for sustainable aquaculture at organized session in SSII 2021. The presentation material is available from slide share.</description>
     </item>
     
     <item>
@@ -86,12 +86,12 @@ Yo yoyo</description>
     </item>
     
     <item>
-      <title>2. INVITED TALK</title>
+      <title>2. PAPER</title>
       <link>http://qtarou.github.io/news/2_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/news/2_news/</guid>
-      <description>I had an invited talk entitled Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture at CVIM/PRMU research meeting.</description>
+      <description>Our paper entitled Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point was accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) . The paper is available from IEEE Xplore or aXiv.</description>
     </item>
     
     <item>
@@ -104,12 +104,12 @@ Yo yoyo</description>
     </item>
     
     <item>
-      <title>3. Invited Talk</title>
+      <title>3. INVITED TALK</title>
       <link>http://qtarou.github.io/news/3_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/news/3_news/</guid>
-      <description>I had a tutorial lecture about camera calibration at SSII 2019. The lecture slide is here.</description>
+      <description>I had an invited talk entitled Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture at CVIM/PRMU research meeting.</description>
     </item>
     
   </channel>
