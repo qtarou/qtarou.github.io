@@ -7,30 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://qtarou.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1. INVITED TALK</title>
+      <title>1. ARTICLE</title>
       <link>http://qtarou.github.io/news/1_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/news/1_news/</guid>
-      <description>I had an invited talk entitled Aquaculture x IoT and AI; Technologies for sustainable aquaculture at organized session in SSII 2021. The presentation material is available from slide share.</description>
+      <description>I contoributed an article entitled &amp;ldquo;IoT・AI technologies contributing to sustainable aquaculture. 持続可能な水産養殖を実現する IoT・AI 技術&amp;rdquo; to a magazine of OplusE.</description>
     </item>
     
     <item>
-      <title>2. PAPER</title>
+      <title>2. INVITED TALK</title>
       <link>http://qtarou.github.io/news/2_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/news/2_news/</guid>
-      <description>Our paper entitled Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point was accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) . The paper is available from IEEE Xplore or aXiv.</description>
+      <description>I had an invited talk entitled Aquaculture x IoT and AI; Technologies for sustainable aquaculture at organized session in SSII 2021. The presentation material is available from slide share.</description>
     </item>
     
     <item>
-      <title>3. INVITED TALK</title>
+      <title>3. PAPER</title>
       <link>http://qtarou.github.io/news/3_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://qtarou.github.io/news/3_news/</guid>
-      <description>I had an invited talk entitled Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture at CVIM/PRMU research meeting.</description>
+      <description>Our paper entitled Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point was accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) . The paper is available from IEEE Xplore or aXiv.</description>
     </item>
     
   </channel>
