@@ -7,6 +7,8 @@ weight = 10
 
 ### Invited Talks
 
+1. Key note talk in [Symposium on Bio-Navi 2024](https://bio-navigation.jp/navisympo2024/). (to appear)
+1. "IoT and image processing technologies that support labor-saving and efficient aquaculture. (水産養殖の省力化・効率化を支えるIoT・画像処理技術)", ViEW, Dec, 2022
 1. "AI・sensing technologies contributing to sustainable aquaculture. (持続可能な水産養殖に貢献する AI・センシング技術)", IIEEJ, Oct, 2022
 1. "Toward realizing IoT・AI device available 365 days in an offshore aquaculture environment. (海上養殖環境で 365 日稼働する IoT・AI デバイスの実現に向けて)", IEICE Society Conference, Sep, 2022
 1. "Aquaculture x IoT and AI; Technologies for sustainable aquaculture (水産養殖 x IoT・AI ～ 持続可能な水産養殖を実現するセンシング/解析技術 ～)", SSII, Jun, 2021, [slide share (in Japanese)](https://www.slideshare.net/SSII_Slides/ssii2021-os101-x-iotai)

@@ -1,7 +1,7 @@
 +++
-title = "1. ARTICLE"
-updated = "2021.11.25"
+title = "1. INVITED TALK"
+updated = "2024.01.23"
 image = "images/umitron.jpg"
 +++
 
-I contoributed an article entitled "**IoT・AI technologies contributing to sustainable aquaculture. 持続可能な水産養殖を実現する IoT・AI 技術**" to a magazine of [OplusE](https://www.adcom-media.co.jp/bn/2021/11/25/42579/).
+I will have a keynote talk regarding computer vision x aquaculture in [Symposium on Bio-Navi 2024](https://bio-navigation.jp/navisympo2024/) on 11th Match 2024.
