@@ -36,7 +36,7 @@ Yo yoyo</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://qtarou.github.io/misc/</guid>
-      <description>Invited Talks &amp;ldquo;AI・sensing technologies contributing to sustainable aquaculture. (持続可能な水産養殖に貢献する AI・センシング技術)&amp;rdquo;, IIEEJ, Oct, 2022 &amp;ldquo;Toward realizing IoT・AI device available 365 days in an offshore aquaculture environment. (海上養殖環境で 365 日稼働する IoT・AI デバイスの実現に向けて)&amp;rdquo;, IEICE Society Conference, Sep, 2022 &amp;ldquo;Aquaculture x IoT and AI; Technologies for sustainable aquaculture (水産養殖 x IoT・AI ～ 持続可能な水産養殖を実現するセンシング/解析技術 ～)&amp;rdquo;, SSII, Jun, 2021, slide share (in Japanese) &amp;ldquo;Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture (水産養殖業における CV・パターン認識技術の最前線)&amp;rdquo;, CVIM/PRMU, Mar, 2021 &amp;ldquo;Camera calibration ~ foundation and application ~ (実践カメラキャリブレーション ～カメラを用いた実世界計測の基礎と応用～)&amp;rdquo;, SSII, 2019, slide share (in Japanese) &amp;ldquo;The Latest Trends of Sports Video Analysis (スポーツ映像解析の最新動向)&amp;rdquo;, 映像情報メディア学会, Aug, 2018 Awards International CVPR 2012, Best Open source Code Award Second Prize, for &amp;ldquo;A New Mirror-based Extrinsic Camera Calibration Using an Orthogonality Constraint&amp;rdquo;.</description>
+      <description>Invited Talks Key note talk in Symposium on Bio-Navi 2024. (to appear) &amp;ldquo;IoT and image processing technologies that support labor-saving and efficient aquaculture. (水産養殖の省力化・効率化を支えるIoT・画像処理技術)&amp;rdquo;, ViEW, Dec, 2022 &amp;ldquo;AI・sensing technologies contributing to sustainable aquaculture. (持続可能な水産養殖に貢献する AI・センシング技術)&amp;rdquo;, IIEEJ, Oct, 2022 &amp;ldquo;Toward realizing IoT・AI device available 365 days in an offshore aquaculture environment. (海上養殖環境で 365 日稼働する IoT・AI デバイスの実現に向けて)&amp;rdquo;, IEICE Society Conference, Sep, 2022 &amp;ldquo;Aquaculture x IoT and AI; Technologies for sustainable aquaculture (水産養殖 x IoT・AI ～ 持続可能な水産養殖を実現するセンシング/解析技術 ～)&amp;rdquo;, SSII, Jun, 2021, slide share (in Japanese) &amp;ldquo;Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture (水産養殖業における CV・パターン認識技術の最前線)&amp;rdquo;, CVIM/PRMU, Mar, 2021 &amp;ldquo;Camera calibration ~ foundation and application ~ (実践カメラキャリブレーション ～カメラを用いた実世界計測の基礎と応用～)&amp;rdquo;, SSII, 2019, slide share (in Japanese) &amp;ldquo;The Latest Trends of Sports Video Analysis (スポーツ映像解析の最新動向)&amp;rdquo;, 映像情報メディア学会, Aug, 2018 Awards International CVPR 2012, Best Open source Code Award Second Prize, for &amp;ldquo;A New Mirror-based Extrinsic Camera Calibration Using an Orthogonality Constraint&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -68,12 +68,12 @@ Siqi Sun, Kosuke Takahashi, Dan Mikami, Mariko Isogawa, Yoshinori Kusachi, &amp;
     </item>
     
     <item>
-      <title>1. ARTICLE</title>
+      <title>1. INVITED TALK</title>
       <link>https://qtarou.github.io/news/1_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://qtarou.github.io/news/1_news/</guid>
-      <description>I contoributed an article entitled &amp;ldquo;IoT・AI technologies contributing to sustainable aquaculture. 持続可能な水産養殖を実現する IoT・AI 技術&amp;rdquo; to a magazine of OplusE.</description>
+      <description>I will have a keynote talk regarding computer vision x aquaculture in Symposium on Bio-Navi 2024 on 11th Match 2024.</description>
     </item>
     
     <item>
@@ -91,7 +91,7 @@ Siqi Sun, Kosuke Takahashi, Dan Mikami, Mariko Isogawa, Yoshinori Kusachi, &amp;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://qtarou.github.io/news/2_news/</guid>
-      <description>I had an invited talk entitled Aquaculture x IoT and AI; Technologies for sustainable aquaculture at organized session in SSII 2021. The presentation material is available from slide share.</description>
+      <description>I had an invited talk entitled IoT and image processing technologies that support labor-saving and efficient aquaculture in ViEW 2022.</description>
     </item>
     
     <item>
