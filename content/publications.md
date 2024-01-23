@@ -17,7 +17,7 @@ weight = 10
 
 1. **Kosuke Takahashi**, Shohei Nobuhara,
    "Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point"
-   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [IEEE Xplore](https://ieeexplore.ieee.org/document/9393612), [axXiv](https://arxiv.org/abs/2103.15501).
+   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2021. [IEEE Xplore](https://ieeexplore.ieee.org/document/9393612), [axXiv](https://arxiv.org/abs/2103.15501).
 
 1. Siqi Sun, **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Yoshinori Kusachi,
    "Multi-view video synchronization using motion rhythms of human joints",
