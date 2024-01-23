@@ -1,0 +1,63 @@
+baseURL = "https://qtarou.github.io/"
+languageCode = "en-us"
+title = "Kosuke Takahashi, Ph.D."
+theme = "hugo-initio"
+publishDir = "docs"
+canonifyurls = true
+
+[params]
+    name = "Kosuke Takahashi, Ph.D."
+    description = "Computer vision engineer at UMITRON."
+    email = "t.kosuke.1210@gmail.com"
+    address = "Sendai, Japan"
+    year = 2024
+    avatar = "images/q_circle.png"
+    background = ""
+    favicon = "images/favicon.ico"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showNews = true
+
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/takahashi.kosuke.1210"
+	icon = "fab fa-facebook-square"
+	footer = true
+	sharethis = true
+	network = "facebook"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/q_tarou"
+	icon = "fab fa-twitter-square"
+	footer = true
+	sharethis = true
+	network = "twitter"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/kosuke-takahashi-043517164/"
+	icon = "fab fa-linkedin"
+	footer = false
+	sharethis = true
+	network = "linkedin"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/qtarou"
+	icon = "fab fa-github"
+	footer = true
+	sharethis = false
+	network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:t.kosuke.1210@gmail.com"
+	icon = "fas fa-envelope-square"
+	footer = false
+	sharethis = true
+	network = "email"
+

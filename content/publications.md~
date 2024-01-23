@@ -1,0 +1,123 @@
++++
+menu = "main"
+title = "Publications"
+type = "publications"
+weight = 10
++++
+
+## Journal papers
+1. Siqi Sun, **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Yoshinori Kusachi, 
+"Multi-view video synchronization using motion rhythms of human joints",
+*ITE Transactions on Media Technology and Applications*, Vol.8, Issue 2, p.100-110, 2020
+
+1. Tomoya Kaichi, Shohei Mori, Hideo Saito, **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Yoshinori Kusachi
+"Image-based center of mass estimation of the human body via 3D shape and kinematic structure"
+*Sports Engineering*, volume 22, Article number: 17, 2019
+
+1. Mariko Isogawa, Dan Mikami, **Kosuke Takahashi**, Daisuke Iwai, Kosuke Sato, Hideaki Kimata,
+"Which is the Better Inpainted Image? Training Data Generation Without Any Manual Operations"
+*International Journal of Computer Vision*, Journal no. 11263, 2018
+
+1. **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Akira Kojima, Hideaki Kimata,
+Extrinsic Camera Calibration of Display-Camera System with Cornea Reflections,
+*IEICE Transaction on Information and Systems*, Vol.E101-D, No.12, pp.3199-3208, 2018
+
+1. Mariko Isogawa, Dan Mikami, **Kosuke Takahashi**, Hideaki Kimata,
+"Image quality assessment for inpainted images via learning to rank",
+*Multimedia Tools and Applications*, 2018
+
+1. Shogo Miyata, Hideo Saito, **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Akira Kojima,
+"Extrinsic Camera Calibration Without Visible Corresponding Points Using Omnidirectional Cameras",
+*IEEE Transactions on Circuits and Systems for Video Technology*, vol.PP, no.99, pp.1-1, 2017
+
+1. Isogawa Mariko, Dan Mikami, **Kosuke Takahashi**, Akira Kojima,
+"Image and video completion via feature reduction and compensation",
+*Multimedia Tools and Applications*, 2016
+
+1. **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Akira Kojima,
+"Extrinsic Camera Calibration with Minimal Configuration using Cornea Model and Equidistance Constraint",
+*IPSJ Transactions on Computer Vision and Applications*, Vol.8, 2016, pp.20-28
+
+1. **Kosuke Takahashi**, Shohei Nobuhara, Takashi Matsuyama,
+"Mirror-based Camera Pose Estimation Using an Orthogonality Constraint",
+*IPSJ Transactions on Computer Vision and Applications*, Vol.8, 2016, pp.11-19
+
+1. Daisuke Ochi, Hideaki Kimata, Yoshinori Kusachi, **Kosuke Takahashi**, Akira Kojima
+"Stabilization Technique for Region-of-Interest Trajectories Made from Video Watching Manipulations",
+*IEICE Transactions on Information and Systems*, Vol.E97-D, 2014, pp.266-274-
+
+## Conference papers (peer reviewed)
+1. **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Siqi Sun, Yoshinori Kusachi,
+"Easy Extrinsic Calibration of VR System and Multi-Camera based Marker-less Motion Capture System",
+*IEEE, ISMAR*, October, 2019
+
+1. **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Yoshinori Kusachi, Naoki Saijo,
+"VR-based Batter Training System with Motion Sensing and Performance Visualization",
+*IEEE, VR*, (Demo), March, 2019
+
+1. **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Hideaki Kimata,
+"Human Pose as Calibration Pattern; 3D Human Pose Estimation with Multiple Unsynchronized and Uncalibrated Cameras",
+*IEEE, CVSports (CVPRW)*, June, 2018
+
+1. Tomoya Kaichi, Hideo Saito, **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Hideaki Kimata,
+"Estimation of Center of Mass for Sports Scene Using Weighted Visual hull",
+*IEEE, CVSports (CVPRW)*, June, 2018
+
+1. Mariko Isogawa, Dan Mikami, Takehiro Fukuda, Naoki Saijo, **Kosuke Takahashi**, Hideaki Kimata, Makio Kashino
+"What Can VR Systems Tell Sports Players? Reaction-based Analysis of Baseball Batters in Virtual and Real Worlds",
+*IEEE, VR*, Mar, 2018
+
+1. Mariko Isogawa, Dan Mikami, **Kosuke Takahashi**, Hideaki Kimata,
+"Which is the better inpainted image? Learning without subjective annotation",
+*IEEE, BMVC*, Sep, 2017
+
+1. **Kosuke Takahashi**, Akihiro Miyata, Shohei Nobuhara, Takashi Matsuyama,
+"A Linear Extrinsic Calibration of Kaleidoscopic Imaging System from Single 3D Point",
+*IEEE, CVPR*, June, 2017
+
+1. Shogo Miyata, Hideo Saito, **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Hideaki Kimata,
+"Ball 3D Trajectory Reconstruction without Preliminary Temporal and Geometrical Camera Calibration",
+*IEEE, CVSports (CVPRW)*, June, 2017
+
+1. Daisuke Ochi, Akio Kameda, **Kosuke Takahashi**, Motohiro Makiguchi, Kouta Takeuchi,
+"VR technologies for rich sports experience",
+*ACM, SIGGRAPH*, (Emerging Technologies), Jul, 2016
+
+1. **Kosuke Takahashi**, Dan Mikami, Mariko Isogawa, Akira Kojima,
+"Cornea-Reflection-Based Extrinsic Camera Calibration Without a Direct View",
+*INSTICC, VISAPP*, Feb, 2016
+
+1. Dan Mikami, Mariko Isogawa, **Kosuke Takahashi**, Hideaki Takada, Akira Kojima,
+"Immersive previous experience in VR for sports performance enhancement",
+*INSTICC, icSPORTS*, Nov, 2015
+
+1. Mariko Isogawa, Dan Mikami, **Kosuke Takahashi**, Akira Kojima,
+"Virtual Omnidirectional Video Synthesis with Multiple Cameras for Sports Training",
+*INSTICC, icSPORTS*, Nov, 2015
+
+1. Dan Mikami, Mariko Isogawa, **Kosuke Takahashi**, Akira Kojima,
+"Automatic Visual Feedback from Multiple Views for Motor Learning",
+*IEEE, ISMAR*, Oct, 2015
+
+1. Mariko Isogawa, Dan Mikami, **Kosuke Takahashi**, Akira Kojima,
+"Content Completion in Lower Dimensional Feature Space through Feature Reduction and Compensation",
+*IEEE, ISMAR*, Oct, 2015
+
+1. Mariko Isogawa, Dan Mikami, **Kosuke Takahashi**, Akira Kojima,
+"Toward Enhancing Robustness of DR System: Ranking Model for Background Inpainting",
+*IEEE, ISMAR*, Oct, 2015
+
+1. **Kosuke Takahashi**, Daisuke Ochi, Yutaka Kunita, Akira Kojima,
+"Pose Estimation of Light Field Camera Based on Termporal Epipolar Constraint",
+*IEEE, ICCP*, May, 2014
+
+1. **Kosuke Takahashi**, Shohei Nobuhara, Takashi Matsuyama,
+"A New Mirror-based Extrinsic Camera Calibration Using an Orthogonality Constraint",
+*IEEE, CVPR*, June, 2012, **Best Open Source Code Award Second Prize**
+
+
+## Conference papers (not reviewed, in Japanese)
+
+## Invited Talk
+
+

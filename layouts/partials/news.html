@@ -1,0 +1,16 @@
+<div class="row section featured topspace">
+
+    <h2 class="section-title"><span>News</span></h2>
+
+    <div class="news">
+        {{ range where .Site.RegularPages "Section" "news" }}
+            <div class="col-sm-6 col-md-4">
+              <h3 class="text-center">{{ .Title }}</h3>
+	      <div class="date">{{ .Params.updated }}</div>
+              <img class="img" src="{{ .Params.image }}" alt="">
+              <p>{{ .Content }}</p>
+            </div>
+        {{ end }}
+    </div>
+
+</div> <!-- / section -->

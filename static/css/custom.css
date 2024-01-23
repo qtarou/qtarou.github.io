@@ -1,0 +1,25 @@
+.news .date{
+    margin: -20px 0 10px 0;
+    font-size: 14px;
+    text-align: center;
+}
+
+.news img{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+
+.interests .date{
+    margin: -20px 0 10px 0;
+    font-size: 14px;
+    text-align: center;
+}
+
+.interests img{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+

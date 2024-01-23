@@ -1,0 +1,32 @@
++++
+menu = "main"
+title = "About"
+type = "about"
+weight = 10
++++
+
+![about](../images/mac.jpg)
+
+## Education
+
+**Doctor's degree in Informatics, (2016-2018)**
+- Kyoto University, Japan. Supervisorl Prof. Shohei Nobuhara. The title of my doctor thesis is **Camera Calibration Based on Mirror Reflections**.
+
+**Master's degree in Informatics, (2010-2012)**
+- Kyoto University, Japan. Supervisor; Prof. Takashi Matsuyama. The title of my master thesis is **Mirror-based Camera Pose Estimation Using an Orthogonality Constraint**.
+
+**Bachelor's degree in Engineering, (2006-2010)**
+- Kyoto University, Japan. Supervisor; Prof. Minoh Michihiko. The title of my bachelor thesis is **Display Visual and Auditory Information to Support Manipulation of Virtual Object in Virtual Studio**.
+
+
+
+## Work Experience
+
+**Umitron, Software engineer** (2019/09/01 ~ )
+- Computer vision, Machine learning,
+- Python, Go, IoT devices
+
+**NTT Media Intelligence Laboratories, Researcher** (2012/04/01 ~ 2019/08/31)
+- Computer vision, Virtual reality,
+- Python, Matlab, C++, C#(Unity)
+
