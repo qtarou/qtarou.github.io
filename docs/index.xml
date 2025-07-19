@@ -4,113 +4,86 @@
     <title>Kosuke Takahashi, Ph.D.</title>
     <link>https://qtarou.github.io/</link>
     <description>Recent content on Kosuke Takahashi, Ph.D.</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate><atom:link href="https://qtarou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://qtarou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://qtarou.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/about/</guid>
-      <description>(2016.02.26 at Rome)
-Education Doctor&amp;rsquo;s degree in Informatics at Kyoto University, Japan, 2016-2018
-Supervisor; Prof. Shohei Nobuhara. Doctor thesis; &amp;ldquo;Camera Calibration Based on Mirror Reflections&amp;rdquo;. Master&amp;rsquo;s degree in Informatics at Kyoto University, Japan, 2010-2012
-Supervisor; Prof. Takashi Matsuyama. Master thesis; &amp;ldquo;Mirror-based Camera Pose Estimation Using an Orthogonality Constraint&amp;rdquo;. Bachelor&amp;rsquo;s degree in Engineering at Kyoto University, Japan, 2006-2010
-Supervisor; Prof. Minoh Michihiko. Bachelor thesis; &amp;ldquo;Display Visual and Auditory Information to Support Manipulation of Virtual Object in Virtual Studio&amp;rdquo;.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/about.jpg&#34; alt=&#34;about&#34;&gt;&#xA;(2016.02.26 at Rome)&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Doctor&amp;rsquo;s degree in Informatics&lt;/strong&gt; at &lt;strong&gt;Kyoto University&lt;/strong&gt;, Japan, 2016-2018&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Supervisor; Prof. Shohei Nobuhara. Doctor thesis; &amp;ldquo;Camera Calibration Based on Mirror Reflections&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Master&amp;rsquo;s degree in Informatics&lt;/strong&gt; at &lt;strong&gt;Kyoto University&lt;/strong&gt;, Japan, 2010-2012&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Supervisor; Prof. Takashi Matsuyama. Master thesis; &amp;ldquo;Mirror-based Camera Pose Estimation Using an Orthogonality Constraint&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bachelor&amp;rsquo;s degree in Engineering&lt;/strong&gt; at &lt;strong&gt;Kyoto University&lt;/strong&gt;, Japan, 2006-2010&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Supervisor; Prof. Minoh Michihiko. Bachelor thesis; &amp;ldquo;Display Visual and Auditory Information to Support Manipulation of Virtual Object in Virtual Studio&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;work-experiences&#34;&gt;&lt;strong&gt;Work Experiences&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Umitron, Software engineer&lt;/strong&gt; (2019/09/01 ~ present)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Awards</title>
       <link>https://qtarou.github.io/awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/awards/</guid>
-      <description>Yo yoyoo
-Yo yoyo</description>
+      <description>&lt;h3 id=&#34;yo&#34;&gt;Yo&lt;/h3&gt;&#xA;&lt;p&gt;yoyoo&lt;/p&gt;&#xA;&lt;h3 id=&#34;yo-1&#34;&gt;Yo&lt;/h3&gt;&#xA;&lt;p&gt;yoyo&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Misc</title>
       <link>https://qtarou.github.io/misc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/misc/</guid>
-      <description>Invited Talks Key note talk in Symposium on Bio-Navi 2024. (to appear) &amp;ldquo;IoT and image processing technologies that support labor-saving and efficient aquaculture. (水産養殖の省力化・効率化を支えるIoT・画像処理技術)&amp;rdquo;, ViEW, Dec, 2022 &amp;ldquo;AI・sensing technologies contributing to sustainable aquaculture. (持続可能な水産養殖に貢献する AI・センシング技術)&amp;rdquo;, IIEEJ, Oct, 2022 &amp;ldquo;Toward realizing IoT・AI device available 365 days in an offshore aquaculture environment. (海上養殖環境で 365 日稼働する IoT・AI デバイスの実現に向けて)&amp;rdquo;, IEICE Society Conference, Sep, 2022 &amp;ldquo;Aquaculture x IoT and AI; Technologies for sustainable aquaculture (水産養殖 x IoT・AI ～ 持続可能な水産養殖を実現するセンシング/解析技術 ～)&amp;rdquo;, SSII, Jun, 2021, slide share (in Japanese) &amp;ldquo;Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture (水産養殖業における CV・パターン認識技術の最前線)&amp;rdquo;, CVIM/PRMU, Mar, 2021 &amp;ldquo;Camera calibration ~ foundation and application ~ (実践カメラキャリブレーション ～カメラを用いた実世界計測の基礎と応用～)&amp;rdquo;, SSII, 2019, slide share (in Japanese) &amp;ldquo;The Latest Trends of Sports Video Analysis (スポーツ映像解析の最新動向)&amp;rdquo;, 映像情報メディア学会, Aug, 2018 Awards International CVPR 2012, Best Open source Code Award Second Prize, for &amp;ldquo;A New Mirror-based Extrinsic Camera Calibration Using an Orthogonality Constraint&amp;rdquo;.</description>
+      <description>&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Key note talk in &lt;a href=&#34;https://bio-navigation.jp/navisympo2024/&#34;&gt;Symposium on Bio-Navi 2024&lt;/a&gt;. (to appear)&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;IoT and image processing technologies that support labor-saving and efficient aquaculture. (水産養殖の省力化・効率化を支えるIoT・画像処理技術)&amp;rdquo;, ViEW, Dec, 2022&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;AI・sensing technologies contributing to sustainable aquaculture. (持続可能な水産養殖に貢献する AI・センシング技術)&amp;rdquo;, IIEEJ, Oct, 2022&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Toward realizing IoT・AI device available 365 days in an offshore aquaculture environment. (海上養殖環境で 365 日稼働する IoT・AI デバイスの実現に向けて)&amp;rdquo;, IEICE Society Conference, Sep, 2022&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Aquaculture x IoT and AI; Technologies for sustainable aquaculture (水産養殖 x IoT・AI ～ 持続可能な水産養殖を実現するセンシング/解析技術 ～)&amp;rdquo;, SSII, Jun, 2021, &lt;a href=&#34;https://www.slideshare.net/SSII_Slides/ssii2021-os101-x-iotai&#34;&gt;slide share (in Japanese)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Applications of Computer Vision and Pattern Recognition Technologies in Aquaculture (水産養殖業における CV・パターン認識技術の最前線)&amp;rdquo;, CVIM/PRMU, Mar, 2021&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Camera calibration ~ foundation and application ~ (実践カメラキャリブレーション ～カメラを用いた実世界計測の基礎と応用～)&amp;rdquo;, SSII, 2019, &lt;a href=&#34;https://www.slideshare.net/SSII_Slides/ssii2019ts3-149136612&#34;&gt;slide share (in Japanese)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;The Latest Trends of Sports Video Analysis (スポーツ映像解析の最新動向)&amp;rdquo;, 映像情報メディア学会, Aug, 2018&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;awards&#34;&gt;Awards&lt;/h3&gt;&#xA;&lt;h5 id=&#34;international&#34;&gt;International&lt;/h5&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CVPR 2012, &lt;strong&gt;Best Open source Code Award Second Prize&lt;/strong&gt;, for &amp;ldquo;A New Mirror-based Extrinsic Camera Calibration Using an Orthogonality Constraint&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h5 id=&#34;domestic-in-japanese&#34;&gt;Domestic (In Japanese)&lt;/h5&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;MIRU 2019, &lt;strong&gt;MIRU Interactive Award&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;CVIM 2018, &lt;strong&gt;CVIM Encouragement Award&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;CVIM 2017, &lt;strong&gt;CVIM Encouragement Award&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;MVE 2015, &lt;strong&gt;HC Award, MVE Award&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h5 id=&#34;company-awards&#34;&gt;Company Awards&lt;/h5&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;NTT Media Intelligence Laboratories, &lt;strong&gt;Special Award&lt;/strong&gt; (特別賞), 2019&lt;/li&gt;&#xA;&lt;li&gt;NTT, &lt;strong&gt;President Award&lt;/strong&gt; (社長表彰), 2017&lt;/li&gt;&#xA;&lt;li&gt;NTT Media Intelligence Laboratories, &lt;strong&gt;Promotion Award&lt;/strong&gt; (プロモーション活動賞), 2017&lt;/li&gt;&#xA;&lt;li&gt;NTT Service Innovation Laboratoriy Group, &lt;strong&gt;Encouragement Award&lt;/strong&gt; (研究開発奨励賞), 2016&lt;/li&gt;&#xA;&lt;li&gt;NTT Media Intelligence Laboratories, &lt;strong&gt;Patent Award&lt;/strong&gt; (特許賞), 2016&lt;/li&gt;&#xA;&lt;li&gt;NTT Intellectual Property Center, 2016&lt;/li&gt;&#xA;&lt;li&gt;NTT Service Innovation Laboratoriy Group, &lt;strong&gt;Performance Award&lt;/strong&gt; (優秀業績賞), 2015&lt;/li&gt;&#xA;&lt;li&gt;NTT Media Intelligence Laboratories, &lt;strong&gt;Contribution Award&lt;/strong&gt; (功労賞), 2014&lt;/li&gt;&#xA;&lt;li&gt;NTT Media Intelligence Laboratories, &lt;strong&gt;Special Award&lt;/strong&gt; (特別賞), 2013&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;media&#34;&gt;Media&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-AqHhIBICxs&#34;&gt;&lt;img src=&#34;../images/media.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://qtarou.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/publications/</guid>
-      <description>Book Hideo Saito, Ryo Yonetani, Kosuke Takahashi, et.al. &amp;ldquo;コンピュータビジョン ―広がる要素技術と応用― &amp;rdquo; (Section 1: Camera calibration), 共立出版, 2018 Article &amp;ldquo;持続可能な水産養殖を実現する IoT・AI 技術&amp;rdquo;, OplusE 2021 年 11・12 月号（第 482 号）, 2021 Journal papers Kosuke Takahashi, Shohei Nobuhara, &amp;ldquo;Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point&amp;rdquo; IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2021. IEEE Xplore, axXiv.
-Siqi Sun, Kosuke Takahashi, Dan Mikami, Mariko Isogawa, Yoshinori Kusachi, &amp;ldquo;Multi-view video synchronization using motion rhythms of human joints&amp;rdquo;, ITE Transactions on Media Technology and Applications, Vol.</description>
+      <description>&lt;h2 id=&#34;book&#34;&gt;Book&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hideo Saito, Ryo Yonetani, &lt;strong&gt;Kosuke Takahashi&lt;/strong&gt;, et.al. &amp;ldquo;&lt;a href=&#34;https://www.kyoritsu-pub.co.jp/bookdetail/9784320123571&#34;&gt;コンピュータビジョン ―広がる要素技術と応用― &lt;/a&gt;&amp;rdquo; (Section 1: Camera calibration), &lt;em&gt;共立出版&lt;/em&gt;, 2018&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;article&#34;&gt;Article&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&amp;ldquo;&lt;a href=&#34;https://www.adcom-media.co.jp/bn/2021/11/25/42579/&#34;&gt;持続可能な水産養殖を実現する IoT・AI 技術&lt;/a&gt;&amp;rdquo;, &lt;em&gt;OplusE 2021 年 11・12 月号（第 482 号）&lt;/em&gt;, 2021&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;journal-papers&#34;&gt;Journal papers&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kosuke Takahashi&lt;/strong&gt;, Shohei Nobuhara,&#xA;&amp;ldquo;Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point&amp;rdquo;&#xA;IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2021. &lt;a href=&#34;https://ieeexplore.ieee.org/document/9393612&#34;&gt;IEEE Xplore&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2103.15501&#34;&gt;axXiv&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Siqi Sun, &lt;strong&gt;Kosuke Takahashi&lt;/strong&gt;, Dan Mikami, Mariko Isogawa, Yoshinori Kusachi,&#xA;&amp;ldquo;Multi-view video synchronization using motion rhythms of human joints&amp;rdquo;,&#xA;ITE Transactions on Media Technology and Applications, Vol.8, Issue 2, p.100-110, 2020, &lt;a href=&#34;https://www.jstage.jst.go.jp/article/mta/8/2/8_100/_article/-char/ja/&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Vivamus Lacus Mauris</title>
       <link>https://qtarou.github.io/post/vivamus-lacus-mauris/</link>
       <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/post/vivamus-lacus-mauris/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae. Adipisci ad natus deleniti.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>1: 3D vision</title>
       <link>https://qtarou.github.io/interests/1_interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/interests/1_interests/</guid>
-      <description>The 3D vision is one of the most major research fields in computer vision. I’m mainly interested in 3D reconstruction using multi-view geometry and camera calibration for the catadioptric capture system.</description>
+      <description>&lt;p&gt;The 3D vision is one of the most major research fields in computer vision. I’m mainly interested in 3D reconstruction using multi-view geometry and camera calibration for the catadioptric capture system.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>1. INVITED TALK</title>
+      <title>1. PRESENTATION</title>
       <link>https://qtarou.github.io/news/1_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/news/1_news/</guid>
-      <description>I will have a keynote talk regarding computer vision x aquaculture in Symposium on Bio-Navi 2024 on 11th Match 2024.</description>
+      <description>&lt;p&gt;I will have a poster presentation entitled &amp;ldquo;タイル画像を用いた高速かつ高精度な魚群食欲推定手法&amp;rdquo; in &lt;a href=&#34;https://cvim.ipsj.or.jp/MIRU2025/&#34;&gt;MIRU2025&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2. human analysis</title>
       <link>https://qtarou.github.io/interests/2_interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/interests/2_interests/</guid>
-      <description>Appearances of humans include the important information for analyzing the human, e.g. what they think, how they move, and so on. I’m interested in analyzing them using computer vision techniques.</description>
+      <description>&lt;p&gt;Appearances of humans include the important information for analyzing the human, e.g. what they think, how they move, and so on. I’m interested in analyzing them using computer vision techniques.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2. INVITED TALK</title>
       <link>https://qtarou.github.io/news/2_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/news/2_news/</guid>
-      <description>I had an invited talk entitled IoT and image processing technologies that support labor-saving and efficient aquaculture in ViEW 2022.</description>
+      <description>&lt;p&gt;I will have a keynote talk regarding computer vision x aquaculture in &lt;a href=&#34;https://bio-navigation.jp/navisympo2024/&#34;&gt;Symposium on Bio-Navi 2024&lt;/a&gt; on 11th Match 2024.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3. aquaculture</title>
       <link>https://qtarou.github.io/interests/3_interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/interests/3_interests/</guid>
-      <description>Enhancing the productivity of aquaculture has a big impact on solving the food problem. Now I’m trying to contribute to this activity using computer vision techniques.</description>
+      <description>&lt;p&gt;Enhancing the productivity of aquaculture has a big impact on solving the food problem. Now I’m trying to contribute to this activity using computer vision techniques.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3. PAPER</title>
       <link>https://qtarou.github.io/news/3_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/news/3_news/</guid>
-      <description>Our paper entitled Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point was accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) . The paper is available from IEEE Xplore or aXiv.</description>
+      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;Structure of Multiple Mirror System From Kaleidoscopic Projections of Single 3D Point&lt;/strong&gt; was accepted to &lt;strong&gt;IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)&lt;/strong&gt; . The paper is available from &lt;a href=&#34;https://ieeexplore.ieee.org/document/9393612&#34;&gt;IEEE Xplore&lt;/a&gt; or &lt;a href=&#34;https://arxiv.org/abs/2103.15501&#34;&gt;aXiv&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

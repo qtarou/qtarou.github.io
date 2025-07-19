@@ -4,34 +4,29 @@
     <title>Interests on Kosuke Takahashi, Ph.D.</title>
     <link>https://qtarou.github.io/interests/</link>
     <description>Recent content in Interests on Kosuke Takahashi, Ph.D.</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://qtarou.github.io/interests/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://qtarou.github.io/interests/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1: 3D vision</title>
       <link>https://qtarou.github.io/interests/1_interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/interests/1_interests/</guid>
-      <description>The 3D vision is one of the most major research fields in computer vision. I’m mainly interested in 3D reconstruction using multi-view geometry and camera calibration for the catadioptric capture system.</description>
+      <description>&lt;p&gt;The 3D vision is one of the most major research fields in computer vision. I’m mainly interested in 3D reconstruction using multi-view geometry and camera calibration for the catadioptric capture system.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2. human analysis</title>
       <link>https://qtarou.github.io/interests/2_interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/interests/2_interests/</guid>
-      <description>Appearances of humans include the important information for analyzing the human, e.g. what they think, how they move, and so on. I’m interested in analyzing them using computer vision techniques.</description>
+      <description>&lt;p&gt;Appearances of humans include the important information for analyzing the human, e.g. what they think, how they move, and so on. I’m interested in analyzing them using computer vision techniques.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3. aquaculture</title>
       <link>https://qtarou.github.io/interests/3_interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://qtarou.github.io/interests/3_interests/</guid>
-      <description>Enhancing the productivity of aquaculture has a big impact on solving the food problem. Now I’m trying to contribute to this activity using computer vision techniques.</description>
+      <description>&lt;p&gt;Enhancing the productivity of aquaculture has a big impact on solving the food problem. Now I’m trying to contribute to this activity using computer vision techniques.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
