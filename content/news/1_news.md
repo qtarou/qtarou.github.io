@@ -1,7 +1,7 @@
 +++
-title = "1. INVITED TALK"
-updated = "2024.01.23"
+title = "1. PRESENTATION"
+updated = "2025.07.19"
 image = "images/umitron.jpg"
 +++
 
-I will have a keynote talk regarding computer vision x aquaculture in [Symposium on Bio-Navi 2024](https://bio-navigation.jp/navisympo2024/) on 11th Match 2024.
+I will have a poster presentation entitled "タイル画像を用いた高速かつ高精度な魚群食欲推定手法" in [MIRU2025](https://cvim.ipsj.or.jp/MIRU2025/).

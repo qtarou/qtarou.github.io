@@ -1,7 +1,7 @@
 +++
 title = "2. INVITED TALK"
-updated = "2022.12.09"
+updated = "2024.01.23"
 image = "images/umitron.jpg"
 +++
 
-I had an invited talk entitled IoT and image processing technologies that support labor-saving and efficient aquaculture in [ViEW 2022](https://view.tc-iaip.org/view/2022/program_info/).
+I will have a keynote talk regarding computer vision x aquaculture in [Symposium on Bio-Navi 2024](https://bio-navigation.jp/navisympo2024/) on 11th Match 2024.

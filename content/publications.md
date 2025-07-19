@@ -131,6 +131,10 @@ weight = 10
 
 ## Conference papers (not reviewed, in Japanese)
 
+1. **高橋康輔**,
+   "タイル画像を用いた高速かつ高精度な魚群食欲推定手法",
+   MIRU, July, 2025.
+
 1. **高橋康輔**, 三上弾, 五十川麻理子, 草地良規,
    "Dance Dance Calibration: 非同期かつ未校正な多視点カメラを用いた人体関節の三次元位置推定",
    MIRU, Aug, 2019, **MIRU インタラクティブ賞**.
